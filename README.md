@@ -62,10 +62,20 @@ assign carry = ((a&b)|(b&c)|(c&a));
 endmodule:  
 ```
 ### Output:
-### RTL
-### TIMING DIAGRAM
 
+### RTL:
+![Output](https://github.com/VINUTHNA-2004/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/blob/main/c1.PNG?raw=true)
 
-### TRUTH TABLE 
-
+### TRUTH TABLE :
+![Output](?raw=true)
+### Timing diagram:
+![Output](?raw=true)
+### Full adder:
+![Output](?raw=true)
+### RTL:
+![Output](?raw=true)
+### TRUTH TABLE :
+![Output](?raw=true)
+### Timing diagram:
+![Output](?raw=true)
 ### Result:
