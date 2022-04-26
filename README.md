@@ -80,3 +80,4 @@ endmodule:
 ### Timing diagram:
 ![Output](https://github.com/VINUTHNA-2004/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/blob/main/c7.PNG?raw=true)
 ### Result:
+Thus, a half adder and full adder circuit is designed to verify its truth table in Quartus using Verilog programming.
