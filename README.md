@@ -63,19 +63,20 @@ endmodule:
 ```
 ### Output:
 
-### RTL:
 ![Output](https://github.com/VINUTHNA-2004/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/blob/main/c1.PNG?raw=true)
+### RTL:
+![Output](https://github.com/VINUTHNA-2004/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/blob/main/c.PNG?raw=true)
 
 ### TRUTH TABLE :
-![Output](?raw=true)
+![Output](https://github.com/VINUTHNA-2004/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/blob/main/c2.PNG?raw=true)
 ### Timing diagram:
-![Output](?raw=true)
+![Output](https://github.com/VINUTHNA-2004/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/blob/main/c3.PNG?raw=true)
 ### Full adder:
-![Output](?raw=true)
+![Output](https://github.com/VINUTHNA-2004/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/blob/main/c4.PNG?raw=true)
 ### RTL:
-![Output](?raw=true)
+![Output](https://github.com/VINUTHNA-2004/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/blob/main/c5.PNG?raw=true)
 ### TRUTH TABLE :
-![Output](?raw=true)
+![Output](https://github.com/VINUTHNA-2004/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/blob/main/c6.PNG?raw=true)
 ### Timing diagram:
-![Output](?raw=true)
+![Output](https://github.com/VINUTHNA-2004/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/blob/main/c7.PNG?raw=true)
 ### Result:
